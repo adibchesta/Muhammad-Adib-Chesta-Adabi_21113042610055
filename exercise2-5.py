@@ -1,1 +1,0 @@
-print('Albert Einstein pernah berkata, "Imagination is more important than knowledge."')
